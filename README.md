@@ -5,7 +5,7 @@ I specialize in building secure, ACID-compliant banking ledgers and scalable B2B
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 * **Backend:** Node.js, Express, PostgreSQL, Prisma, MongoDB, Docker.
 * **Frontend:** React.js, Next.js, Tailwind CSS.
 * **DevOps:** Linux VPS, Coolify, CI/CD, Nginx.
@@ -34,5 +34,5 @@ I specialize in building secure, ACID-compliant banking ledgers and scalable B2B
 * **Link:** [View Source Code][((https://github.com/AirMa001/marlimaChess)]
 
 
-### 📫 Contact Me
+### Contact Me
 * **Email:** anokwuruemmanuel01@gmail.com
